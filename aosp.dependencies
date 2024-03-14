@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "HorizonDroid-Org-Devices/vendor_xiaomi_beryllium",
+    "target_path": "vendor/xiaomi/beryllium",
+    "branch": "fourteen"
+  },
+  {
+    "remote": "github",
+    "repository": "HorizonDroid-Org-Devices/kernel_xiaomi_sdm845",
+    "target_path": "kernel/xiaomi/sdm845",
+    "branch": "foruteen"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "anandhan07/aosp-clang",
+    "clone-depth": "1",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-aosp"
+  }
+]
